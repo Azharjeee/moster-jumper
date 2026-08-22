@@ -1,0 +1,6 @@
+{
+  "name": "Monster Jump - 2D Endless Jumper & Kotlin Android Studio Game Engine",
+  "description": "Playable 2D endless jumping game with Easy/Medium/Hard difficulty modes, 6-tier level-based visual and difficulty progression system, auto-jump physics, procedural platforms, monster obstacles, collectible coins, power-ups, character skins shop, and full exportable Kotlin Android Studio project source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
